@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Typescript/Asynchronism-Typescript/.vs/VSWorkspaceState.json
+/Typescript/Asynchronism-Typescript/.vs/slnx.sqlite
+/Typescript/Asynchronism-Typescript/.vs/Asynchronism-Typescript/FileContentIndex/3f003627-8be5-41e6-a4d3-435c29aac1c9.vsidx
+/Typescript/Asynchronism-Typescript/.vs/ProjectSettings.json
+/Typescript/Asynchronism-Typescript/.vs/Asynchronism-Typescript/v17/DocumentLayout.json
+/Typescript/Asynchronism-Typescript/.vs/Asynchronism-Typescript/v17/.wsuo
+/C#/Asynchronism-NET/.vs/ProjectEvaluation/asynchronism-net.metadata.v7.bin
+/C#/Asynchronism-NET/.vs/ProjectEvaluation
+/C#/Asynchronism-NET/.vs/Asynchronism-NET/v17
+/C#/Asynchronism-NET

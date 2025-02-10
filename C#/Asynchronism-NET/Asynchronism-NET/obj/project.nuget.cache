@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AwJNkBJf1vtKHhFc1k/AfGp1+N4HSqcc7h1qbjKqCyCIbXHcAwV2IlekD7yZoYRvRwKgPMnltr6XzqX0AK0Cfg==",
+  "dgSpecHash": "hA5TjNr2CeHPwTCOiKCM4xyNbgyw+ggqdmEc19VX98lkNvNPzH24An+FCTsXjhHI4Is5W1iTg9QTPkRYYquIEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\samue\\Desktop\\Asynchronism\\C#\\Asynchronism-NET\\Asynchronism-NET\\Asynchronism-NET.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

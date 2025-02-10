@@ -1,9 +1,9 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.ts'
 // import { GetUsersWithChainedPromises } from './1/01-exercise.mine.ts'
 import {GetUsersWithChainedPromisesFeedback} from './1/01-exercise.promises.ts'
+import {EXERCISE02} from './2/01-exercise.mine.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">
@@ -18,5 +18,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   
   </div>
 `
-
-GetUsersWithChainedPromisesFeedback();
+EXERCISE02();
