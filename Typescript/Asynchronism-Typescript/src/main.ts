@@ -3,6 +3,7 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 // import { GetUsersWithChainedPromises } from './1/01-exercise.mine.ts'
 import {GetUsersWithChainedPromisesFeedback} from './1/01-exercise.promises.ts'
+import {allPromises} from './3/01-exercise.mine.ts'
 import {EXERCISE02} from './2/01-exercise.mine.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
@@ -18,4 +19,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   
   </div>
 `
-EXERCISE02();
+allPromises();
